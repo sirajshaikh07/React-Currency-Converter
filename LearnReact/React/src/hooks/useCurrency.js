@@ -20,7 +20,7 @@ function useCurrency(currency)
     },[currency])
 
 
-return data;
+return data
 
 }
 export default useCurrency;
